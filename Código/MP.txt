@@ -1,0 +1,5 @@
+256 :tamanho em KB (máximo 256)
+8 :palavras por bloco da MP (2, 4 ou 8)
+4 :tamanho de cada palavra em bytes (fixo)
+1 :palavras por linha da MP (fixo)
+4 :palavras salvas na MP (4 base; Mínimo 1, máximo 65536)

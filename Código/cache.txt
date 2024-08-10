@@ -1,0 +1,3 @@
+32 :tamanho do cache em KB (máximo 32)
+2 :número de linhas por conjunto (minimo 2)
+1 :número de palavras por linha (comum 1)

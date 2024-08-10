@@ -1,0 +1,1 @@
+15324 :endereço em decimal a ser buscado

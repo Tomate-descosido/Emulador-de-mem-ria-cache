@@ -1,0 +1,53 @@
+# Feito por: Guilherme Gibeli e Eduardo Dobbins
+
+	A insersão dos parametros da memória principal foi feita no txt "MP.txt"
+
+	A insersão dos parametros da cache foi feita no txt "cache.txt"
+
+	A insersão dos parametros para procura foi feita no txt "data.txt"
+
+-/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/-
+
+	todas a insersões foram feitas seguindo o padrão de: 
+
+	{valor} :nome e formato do valor (informação sobre os parametros limites)
+
+-/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/-
+
+	no MP.txt se encontra respectivamente:
+
+	tamanho da MP em KB;
+	n° de palavras por bloco da MP;
+	tamanho de cada palavra em bytes;
+	n° de palavras por linha da MP;
+	n° de palavras salvas na MP.
+
+-/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/-
+
+	no cache.txt se encontra respectivamente:
+
+	tamanho da Cache em KB;
+	n° de linhas por conjunto;
+	n° de palavras por linha.
+
+-/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/-
+
+	no data.txt se encontra apenas:
+
+	endereço em bytes a ser buscado.
+
+-/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/-
+
+cuidado:
+
+	alterar a ordem dos item ocasionará em erro;
+
+	inserir caracteres que fogem os paramentros ocasionará em erro;
+
+	alterar o nome ou formato do arquivo de referência dos parâmetros ocasionará em erro.
+
+observação:
+
+se por alguma razão o código não rodar corretamente, deixarei aqui o link do Google Colab, pois todo ele foi desenvolvido e testado por lá e com isso independente de qual seja a máquina, por ele o resultado será sempre o mesmo
+
+https://colab.research.google.com/drive/1tbwgrvR01Md2HrthQujPmUDAArjF73HQ?usp=sharing
